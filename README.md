@@ -20,9 +20,9 @@
 - Banco de Dados e SQL
  
 ## Sobre meus projetos
-  Pretendo adicionar meus projetos ao meu **GitHub** e deixar eles públicos.
+  Pretendo adicionar meus projetos ao meu **GitHub** e deixá-los públicos.
 
 ## Sobre meu GitHub
- Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades.
+ Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades no ramo.
  
   ### Obrigado por verem meu GitHub, agradeço a atenção.

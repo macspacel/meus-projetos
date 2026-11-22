@@ -25,4 +25,4 @@
 ## Sobre meu GitHub
  Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades.
  
-  ### Obrigado por verem meu **GitHub**, agradeço a atenção.
+  ### Obrigado por verem meu GitHub, agradeço a atenção.

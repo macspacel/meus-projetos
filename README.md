@@ -1,28 +1,28 @@
 # Olá, eu sou macspacel
 ## Sobre mim 
- Sou um estudante jovem de programação.
+ Sou um estudante de programação.
 
  Atualmente estou na área de **front-end**.
 
- Pretendo aprender  **back-end** e aprimorar minhas habilidades de desenvolvimento.
+ Pretendo aprender **back-end** e aprimorar minhas habilidades de desenvolvimento.
 
 ## Objetivos atuais
-- HTML;
-- CSS;
-- JavaScript; 
+- HTML
+- CSS
+- JavaScript
 
 ## Próximos objetivos
-- Python;
-- React;
-- C;
-- C#;
-- C++;
-- Banco de Dados SQL;
+- Python
+- React
+- C
+- C#
+- C++
+- Banco de Dados e SQL
  
 ## Sobre meus projetos
-  Pretendo adicionar meus projetos ao meu github e deixar eles públicos.
+  Pretendo adicionar meus projetos ao meu **GitHub** e deixar eles públicos.
 
-## Sobre meu github
- Pretendo manter meu github atualizado, mostrando minha evolução e habilidades.
+## Sobre meu GitHub
+ Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades.
  
-  ### Obrigado por verem meu github, agradeço a atenção.
+  ### Obrigado por verem meu **GitHub**, agradeço a atenção.

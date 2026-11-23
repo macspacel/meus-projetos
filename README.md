@@ -1,28 +1,11 @@
-# Olá, eu sou macspacel
-## Sobre mim 
- Sou um estudante de programação.
+# Bem vindo aos meus projetos!
+Este repositório e a minha coleção de **projetos de programação**
 
- Atualmente estou na área de **front-end**.
+Aqui você pode ver meus projetos e como eles foram feitos com o código aberto e público
 
- Pretendo aprender **back-end** e aprimorar minhas habilidades de desenvolvimento.
+## Meus projetos
 
-## Objetivos atuais
-- HTML
-- CSS
-- JavaScript
 
-## Próximos objetivos
-- Python
-- React
-- C
-- C#
-- C++
-- Banco de Dados e SQL
- 
-## Sobre meus projetos
-  Pretendo adicionar meus projetos ao meu **GitHub** e deixá-los públicos.
+## Meu portfólio
 
-## Sobre meu GitHub
- Pretendo manter meu **GitHub** atualizado, mostrando minha evolução e habilidades no ramo.
- 
-  ### Obrigado por verem meu GitHub, agradeço a atenção.
+Veja também meu **portfólio** com os meus principais projetos e como eles foram feitos.

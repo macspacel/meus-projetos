@@ -5,14 +5,22 @@ Aqui você pode ver meus projetos e como eles foram feitos com o código aberto 
 
 ## Meus projetos
 
-[TREINO, visite meu Site Treino](./treino)
+[Treino](./treino)
+Visite minha área de teste, meu site treino é o local em que eu testo códigos e ideias diversas. 
+**Em contante atualização e não possuirá versão final**
 
-[RESTAURANTE INDIARA, Visite meu site do Restaurante Indiara](./restaurante-indiara)
+[Restaurante Indiara](./restaurante-indiara)
+Visite este site do Restaurante Indiara, um projeto de um restaurante fictício criado por mim
+**Em desenvolvimento**
 
-[ZOMBIE HORDE, jogue o jogo Zombie Horde feito no Three.js em JavaScript](./)
+[Zombie Horde](./zombie-horde)
+Visite o meu jogo Zombie Horde, um jogo de tiro em primeira pessoa bem simples com zumbis, hondas, duas armas e completamente feito em Three.js em JavaScript
+**Em desenvolvimento**
+
 
 ## Meu portfólio
 
 Veja também meu **portfólio** com os meus principais projetos e como eles foram feitos.
 
 [Meu Portfólio](./portfólio)
+**Em desenvolvimento**

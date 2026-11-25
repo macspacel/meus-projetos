@@ -25,6 +25,6 @@ Visite o meu jogo Zombie Horde, um jogo de tiro em primeira pessoa bem simples c
 
 Veja também meu **portfólio** com os meus principais projetos e como eles foram feitos.
 
-[Meu Portfólio](./portfólio)
+[Meu Portfólio](https://github.com/macspacel/portfolio)
 
 **Em desenvolvimento**
